@@ -1,0 +1,8 @@
+__pycache__
+wandb/*
+mydata/*
+
+AE/result/*
+AE/capsule.tar
+AE/script/__pycache__
+AE/script/.ipynb_checkpoints
