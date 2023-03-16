@@ -11,7 +11,7 @@ from models import Net
 
 
 def main():
-    wandb.init(project="educ_okuda")
+    wandb.init(project="educ_ml")
     # 訓練データを取得
     mnist_train = MNIST("./mydata",
                         train=True, download=True,
@@ -83,5 +83,4 @@ def main():
 
 
 if __name__ == '__main__':
-    # wandb.login()
     main()
