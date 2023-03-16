@@ -1,8 +1,8 @@
 __pycache__
-wandb/*
-mydata/*
+wandb/
+mydata/
 
-AE/result/*
+AE/result/
 AE/capsule.tar
 AE/script/__pycache__
 AE/script/.ipynb_checkpoints
